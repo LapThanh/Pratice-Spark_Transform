@@ -1,5 +1,6 @@
 # Pratice-Spark_Transform
-hi, my name is Thanh
+
+
 This repo is to practice and learning transform data using Apache Spark
 
 This project is intended for implementing data transformation using Spark and AWS, so it won't involve much business logic. ( just Transform and Transform )
